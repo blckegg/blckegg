@@ -1,6 +1,24 @@
-### Hi there 👋
+![자기 소개](https://capsule-render.vercel.app/api?type=egg&height=308&color=gradient&text=Rolled%20Omelet&fontAlign=50&fontAlignY=47&animation=fadeIn&descAlignY=61)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
+### Hi there 👋
 **blckegg/blckegg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
