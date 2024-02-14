@@ -4,7 +4,8 @@
 
 [![blckegg's GitHub stats](https://github-readme-stats.vercel.app/api?username=blckegg)](https://github.com/blckegg/github-readme-stats)
 
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={subchrt21})](https://solved.ac/{subchrt21})
 
 
 
